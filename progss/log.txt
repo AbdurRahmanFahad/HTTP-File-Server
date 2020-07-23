@@ -1,0 +1,45 @@
+GET /E:/ HTTP/1.1
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:49:04 BDT 2020
+Content-Type: text/html
+Content-Type: text/html
+GET /favicon.ico HTTP/1.1
+HTTP/1.1 404 NOT FOUND
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:49:04 BDT 2020
+Content-Type: text/html
+Content-Length: 151
+GET /E://The.Beach.2000.1080p.BrRip.x264.YIFY%20(2).mp4 HTTP/1.1
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:49:20 BDT 2020
+Content-Disposition: attachment
+Content-Type: video/mp4
+Content-Length: 31075016
+GET /E://downloads HTTP/1.1
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:49:33 BDT 2020
+Content-Type: text/html
+Content-Type: text/html
+GET /E://downloads/%E0%A6%95%E0%A7%87%E0%A6%8F%E0%A6%AB%E0%A6%B8%E0%A6%BF_%20%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%AB%E0%A6%B8%E0%A6%BF%20%E0%A6%95%E0%A7%8B%E0%A6%B2%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8B%20--%20Coleslaw%20Recipe%20Bangla--%20How%20To%20Make%20Coleslaw%20--%20KFC%20_%20Bfc%20style%20Coleslaw%20-%20YouTube.mkv HTTP/1.1
+HTTP/1.1 404 NOT FOUND
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:49:47 BDT 2020
+Content-Type: text/html
+Content-Length: 151
+GET /E://downloads/pictures HTTP/1.1
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:50:34 BDT 2020
+Content-Type: text/html
+Content-Type: text/html
+GET /E://downloads/89718016_216660076352583_6268678761932128256_n.mp3 HTTP/1.1
+HTTP/1.1 200 OK
+Server: Java HTTP Server: 1.0
+Date: Thu Jul 23 19:50:39 BDT 2020
+Content-Disposition: attachment
+Content-Type: audio/mpeg
+Content-Length: 2967088
+null
