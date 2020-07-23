@@ -4,11 +4,25 @@ A simultaneous multiple client handling capable HTTP File Server written in Java
 This program can be used to transfer files in the same LAN between different machines.
 Multiple clients can access multiple files and download them simultaneously. 
 
-**Uploading Files to Server**
-Many clients can also upload files to the server
+# Features
 
-**Over the net**
-Someone having a Public IP address can set up a server using this program to transfer files over the net.
+* **Multi-threaded**
+  
+    Simultaneous support for many clients
+* **Uploading Files to Server**
+
+    Many clients can also upload files to the server
+* **Cross Platform compatibility**
+    
+    Server, Clients can be in differet Operating System.  
+* **Server log**
+   
+    A file named `log.txt` will be generated containing the HTTP requests received by the server from clients.
+*  **Over the net capable**
+
+    Someone having a Public IP address can set up a server using this program to transfer files over the net.
+
+  
 
 # User Manual
 
@@ -45,9 +59,8 @@ You will need a Public Ip address for this.
   to upload it.
 * Uploaded file from client's machine will be stored in the root directory of server.
   
-  
-  
-  
+ 
+ 
   
   
   
